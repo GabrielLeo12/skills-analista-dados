@@ -1,0 +1,30 @@
+﻿skill,categoria,vagas,percentual
+KPIs / Indicadores,Conceito,392,68.5
+SQL,Linguagem,386,67.5
+Power BI,Visualização,360,62.9
+Python,Linguagem,263,46.0
+Excel,Planilha,246,43.0
+Comunicação,Comportamental,232,40.6
+Modelagem de dados,Engenharia de dados,152,26.6
+Inglês,Idioma,133,23.3
+Estatística,Conceito,108,18.9
+ETL,Engenharia de dados,108,18.9
+Databricks,Engenharia de dados,80,14.0
+Tableau,Visualização,78,13.6
+DAX,Linguagem,76,13.3
+Data Warehouse,Engenharia de dados,76,13.3
+Azure,Cloud,70,12.2
+Looker,Visualização,67,11.7
+GCP / BigQuery,Cloud,65,11.4
+IA Generativa,Conceito,52,9.1
+Machine Learning,Conceito,48,8.4
+Git,Engenharia de dados,47,8.2
+AWS,Cloud,44,7.7
+R,Linguagem,41,7.2
+Google Sheets,Planilha,34,5.9
+Storytelling,Conceito,31,5.4
+Spark,Engenharia de dados,25,4.4
+VBA / Macros,Linguagem,18,3.1
+Qlik,Visualização,17,3.0
+Airflow,Engenharia de dados,14,2.4
+dbt,Engenharia de dados,10,1.7

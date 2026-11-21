@@ -1,0 +1,15 @@
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dados brutos (grandes e com textos completos das vagas)
+data/raw/*.csv
+data/processed/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/

@@ -82,4 +82,4 @@ Para mudar os termos de busca, o período ou a lista de skills, edite `src/confi
 Python · pandas · matplotlib · regex · JobSpy
 
 ---
-Feito por **Gabriel Leonardelli** · [LinkedIn](https://www.linkedin.com/in/[seu-perfil])
+Feito por **Gabriel Leonardelli**
